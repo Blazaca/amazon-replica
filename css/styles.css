@@ -1,0 +1,119 @@
+div{
+    padding: 20px;
+}
+.logo-img{
+    display: block;
+    margin: 0 auto;
+}
+
+.forminput {
+    width: 80%;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+    padding: 25px 35px 6px 35px;
+    font-size: 12px;
+    margin: 0 auto;
+}
+
+.forminput h2 {
+    font-size: 27px;
+    margin-bottom: 18px;
+}
+
+#sign-in-button {
+    margin: 0 auto;
+    width: 100%;
+    margin: 11px 0px;
+    background-color: #ecaf30;
+    border-radius: 3px;
+    height: 32px;
+}
+
+#email {
+    display: block;
+    width: 100%;
+    margin: 4px 0px 23px 0px;
+    border-radius: 3px;
+    border-width: 1px;
+    font-size: 16px;
+}
+
+#password {
+    display: block;
+    width: 100%;
+    margin: 4px 0px 10px 0px;
+    border-radius: 3px;
+    border-width: 1px;
+    font-size: 16px;
+}
+
+#forgot-pass {
+    float: right;
+    text-decoration: none;
+    color:  #00a8e1;
+}
+
+#need-help {
+    color:  #00a8e1;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+#arrow {
+    font-size: 25px;
+    vertical-align: sub;
+}
+
+#below-box {
+    width: 80%;
+    padding: 10px 15px 6px 15px;
+    font-size: 12px;
+    margin: 0 auto;
+}
+
+#strike {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid grey; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+    color: grey;
+}
+
+#new2a {
+    background: #fff;
+    padding: 0 10px;
+}
+
+#new-account {
+    margin: 0 auto;
+    width: 100%;
+    margin: 5px 0px;
+    background-color: #e4e4e4;
+    border-radius: 3px;
+    height: 32px;
+}
+
+#horizontal-line {
+    width: 500%;
+    margin-left: -150%;
+    margin-top: 20px;
+}
+
+.bottom-links {
+    text-align: center;
+    padding: 25px 0 10px 0;
+}
+
+.bottom-link {
+    font-size: 11px;
+    margin: 0 10px;
+    text-decoration: none;
+
+}
+
+#copyright {
+    font-size: 11px;
+    text-align: center;
+    padding-top: 10px;
+}
